@@ -2,10 +2,10 @@
 ob_start();
 /*
 ─═ঊঈঊঈ═─╮
-@RAMBO_SYR
-@Ailnoor
+@ili69ili
+@ili67ili
 V 1.o
-@Xxx_DEVRAMI_xxX ♔
+@alasdyirq ♔
 ─═ঊঈঊঈ═─╯
 */
 define('API_KEY','TOKEN');
@@ -239,7 +239,7 @@ if($textmassage=="/start" && $tc == "private"){
    'message_id'=>$messageid,
    'text'=>"اهلا بك 🚸 اختر  🐾 ماتريد ⚡️ :-
 
-تابع 🔉 من❕فضلك 👣 :- @Xxx_DEVRAMI_xxX",
+تابع 🔉 من❕فضلك 👣 :- @alasdyirq",
     'parse_mode'=>'MarkDown',
     'reply_markup'=>json_encode([
     'resize_keyboard'=>true,
@@ -251,7 +251,7 @@ if($textmassage=="/start" && $tc == "private"){
    ['text'=>"معلومات المجموعههہ ⚡️",'callback_data'=>'groupe'],['text'=>"الاوامر الخاصة 🐾",'callback_data'=>'help']
    ],
    [
-['text'=>"فريق TEAMDEV 🚸",'url'=>"https://telegram.me/Xxx_DEVRAMI_xxX"]
+['text'=>"فريق TEAM ABOODE 🚸",'url'=>"https://telegram.me/alasdyirq"]
   ],
     ]
     ])
@@ -264,7 +264,7 @@ if($textmassage=="/start" && $tc == "private"){
   	'chat_id'=>$chat_id,
   	'text'=>"اهلا بك 🚸 اختر  🐾 ماتريد ⚡️ :-
 
-تابع 🔉 من❕فضلك 👣 :- @Xxx_DEVRAMI_xxX",
+تابع 🔉 من❕فضلك 👣 :- @alasdyirq",
     'parse_mode'=>'MarkDown',
   	'reply_markup'=>json_encode([
   	'resize_keyboard'=>true,
@@ -276,7 +276,7 @@ if($textmassage=="/start" && $tc == "private"){
    ['text'=>"معلومات المجموعههہ ⚡️",'callback_data'=>'groupe'],['text'=>"الاوامر الخاصة 🐾",'callback_data'=>'help']
    ],
    [
-['text'=>"فريق TEAMDEV 🚸",'url'=>"https://telegram.me/Xxx_DEVRAMI_xxX"]
+['text'=>"فريق TEAMABOODE 🚸",'url'=>"https://telegram.me/alasdyirq"]
   ],
   	]
   	])
@@ -367,8 +367,8 @@ if($textmassage=="/start" && $tc == "private"){
 
 وضع ترحيب ➖ ( لوضع ترحيب للمجموعة ) 🔊
 ֆ • • • • • • • • • • • • • ֆ
-DEV ☄ :- @RAMBO_SYR
-CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
+DEV ☄ :- @ili69ili
+CH ⚡️ :- @alasdyirq*",
             'parse_mode'=>'MarkDown',
                'reply_markup'=>json_encode([
                    'inline_keyboard'=>[
@@ -388,7 +388,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -453,7 +453,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :- @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -517,7 +517,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -582,7 +582,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :- @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -646,7 +646,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -711,7 +711,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :- @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -775,7 +775,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -840,7 +840,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :- @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -904,7 +904,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -969,7 +969,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :- @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1033,7 +1033,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1098,7 +1098,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :- @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1162,7 +1162,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1227,7 +1227,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :-  @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1291,7 +1291,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1356,7 +1356,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :- @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1420,7 +1420,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1485,7 +1485,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :- @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1549,7 +1549,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1614,7 +1614,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :- @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1678,7 +1678,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1743,7 +1743,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :- @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1807,7 +1807,7 @@ CH ⚡️ :- @Xxx_DEVRAMI_xxX*",
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1899,7 +1899,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :- @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -1963,7 +1963,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -2028,7 +2028,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :- @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -2092,7 +2092,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -2157,7 +2157,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
 مفتوح = ✖️
 مقفول = ✔️
 
-تابع 🐾 من ⚡️ فضلك ☄ :- @Xxx_DEVRAMI_xxX 💛",
+تابع 🐾 من ⚡️ فضلك ☄ :- @alasdyirq 💛",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -2221,7 +2221,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -2285,7 +2285,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -3158,7 +3158,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
 وضع ترحيب ➖ ( لوضع ترحيب للمجموعة ) 🔊
 ֆ • • • • • • • • • • • • • ֆ*
 
-[اضغط هنا وتابع جديدنا ✔️](t.me/Xxx_DEVRAMI_xxX)",
+[اضغط هنا وتابع جديدنا ✔️](t.me/alasdyirq)",
   'parse_mode'=>'MarkDown',
 	]);
 	}
@@ -3172,7 +3172,7 @@ sendAction($chat_id, 'typing');
       ]);
 MrPHPBot('sendmessage',[
  'chat_id'=>$chat_id,
- 'text'=>"تم تثبيت ☄ الرسالة بنجاح ⚡️ تابع :- @Xxx_DEVRAMI_xxX 🐾",
+ 'text'=>"تم تثبيت ☄ الرسالة بنجاح ⚡️ تابع :- @alasdyirq 🐾",
   'parse_mode'=>'MarkDown',
  ]);
  }
@@ -3186,7 +3186,7 @@ sendAction($chat_id, 'typing');
       ]);
 MrPHPBot('sendmessage',[
 	'chat_id'=>$chat_id,
-	'text'=>"تم طرد ☄ العضو بنجاح ⚡️ تابع :- @Xxx_DEVRAMI_xxX 🐾",
+	'text'=>"تم طرد ☄ العضو بنجاح ⚡️ تابع :- @alasdyirq 🐾",
   'parse_mode'=>'MarkDown',
 	]);
 	}
@@ -3229,7 +3229,7 @@ if (!in_array($chat_id, $members)) {
 save("data/$from_id/file.txt","sendtoall");
          MrPHPBot('sendmessage',[
         	'chat_id'=>$Dev,
-        	'text'=>"ارسل ⚡️ النص ☄ الان 🌪 تابع @Xxx_DEVRAMI_xxX 📨",
+        	'text'=>"ارسل ⚡️ النص ☄ الان 🌪 تابع @alasdyirq 📨",
 		'parse_mode'=>'MarkDown',
     		]);
 }elseif ($step == 'sendtoall') {
@@ -3246,7 +3246,7 @@ save("data/$from_id/file.txt","to");
 save("data/$from_id/file.txt","fortoall");
          MrPHPBot('sendmessage',[
         	'chat_id'=>$Dev,
-        	'text'=>"ارسل ⚡️ النص ☄ الان 🌪 تابع @Xxx_DEVRAMI_xxX 📨",
+        	'text'=>"ارسل ⚡️ النص ☄ الان 🌪 تابع @alasdyirq 📨",
 		'parse_mode'=>'MarkDown',
     		]);
 }elseif ($step == 'fortoall') {
@@ -3261,7 +3261,7 @@ elseif (strpos($textmassage , "وضع ترحيب") !== false && $from_id == $own
 if ($tc == 'group' | $tc == 'supergroup'){
 $we = str_replace("وضع ترحيب","",$textmassage);
 save("data/$chat_id/textwelcome.txt","$we");
-SendMessage($chat_id,"تم حفظ ☄ الترحيب بنجاح ⚡️ تابع :- @Xxx_DEVRAMI_xxX 🐾");
+SendMessage($chat_id,"تم حفظ ☄ الترحيب بنجاح ⚡️ تابع :- @alasdyirq 🐾");
 }
 }
 elseif (strpos($textmassage , "وضع تكرار") !== false && $from_id == $owners) {
@@ -3269,12 +3269,12 @@ if ($tc == 'group' | $tc == 'supergroup'){
 $we = str_replace("وضع تكرار","",$textmassage);
 if ($we <= 20 && $we >= 1){
 save("data/$chat_id/numflood.txt","$we");
-SendMessage($chat_id,"تم حفظ ☄ التكرار بنجاح ⚡️ تابع :- @Xxx_DEVRAMI_xxX 🐾");
+SendMessage($chat_id,"تم حفظ ☄ التكرار بنجاح ⚡️ تابع :- @alasdyirq 🐾");
 }
 else{
 MrPHPBot('sendmessage',[
  'chat_id' => $chat_id,
- 'text'=>"عذرا اختر ☄ من 1 الى 20 ⚡️ تابع :- @Xxx_DEVRAMI_xxX 🐾",
+ 'text'=>"عذرا اختر ☄ من 1 الى 20 ⚡️ تابع :- @alasdyirq 🐾",
               ]);
 }
 }
@@ -3282,13 +3282,13 @@ MrPHPBot('sendmessage',[
 elseif ($textmassage == "تفعيل الترحيب" && $from_id == $owners) {
 if ($tc == 'group' | $tc == 'supergroup'){
 save("data/$chat_id/welcome.txt","✔️");
-SendMessage($chat_id,"تم تفعيل ☄ الترحيب بنجاح ⚡️ تابع :- @Xxx_DEVRAMI_xxX 🐾");
+SendMessage($chat_id,"تم تفعيل ☄ الترحيب بنجاح ⚡️ تابع :- @alasdyirq 🐾");
 }
 }
 elseif ($textmassage == "كتم التكرار" && $from_id == $Dev) {
 rmdir("data/spam");
 mkdir("data/spam");
-SendMessage($chat_id,"#تم تابع @teamiraq");
+SendMessage($chat_id,"#تم تابع @alasdyirq");
 }
 elseif ($textmassage == "قفل التكرار" && $from_id == $owners) {
 if ($tc == 'group' | $tc == 'supergroup'){
@@ -3305,7 +3305,7 @@ SendMessage($chat_id,"تم فتح 🐾 تكرار الرسائل ⚡️ في ا�
 elseif ($textmassage == "تفعيل الترحيب" && $from_id == $owners) {
 if ($tc == 'group' | $tc == 'supergroup'){
 save("data/$chat_id/welcome.txt","✔️");
-SendMessage($chat_id,"تم تفعيل ☄ الترحيب بنجاح ⚡️ تابع :- @Xxx_DEVRAMI_xxX 🐾");
+SendMessage($chat_id,"تم تفعيل ☄ الترحيب بنجاح ⚡️ تابع :- @alasdyirq 🐾");
 }
 }
 elseif ($textmassage == "قفل البوتات" && $from_id == $owners) {
@@ -3323,7 +3323,7 @@ SendMessage($chat_id,"تم فتح 🐾 اضافة البوتات ⚡️ في ا�
 elseif (preg_match('/^(.*)([Bb][Oo][Tt])/s',$newchatmemberu) && $lockbots == "✔️" && $newchatmemberu != "SPDLBot") {
  MrPHPBot('sendMessage',[
  'chat_id'=>$chat_id,
- 'text'=>'عذرا عزيزي ☄ ممنوع اضافة البوتات 🐾 هنا للاسف تم طرده ⚡️ تابع من فضلك :- @Xxx_DEVRAMI_xxX 🚸',
+ 'text'=>'عذرا عزيزي ☄ ممنوع اضافة البوتات 🐾 هنا للاسف تم طرده ⚡️ تابع من فضلك :- @alasdyirq 🚸',
   'parse_mode'=>'HTML'
  ]);
  MrPHPBot('kickChatMember',[
@@ -3344,12 +3344,12 @@ MrPHPBot('deletemessage',[
 }
 MrPHPBot('sendmessage',[
  'chat_id' => $chat_id,
- 'text' =>"تم حذف ☄ $num من الرسائل ⚡️ تابع :- @Xxx_DEVRAMI_xxX 🐾",
+ 'text' =>"تم حذف ☄ $num من الرسائل ⚡️ تابع :- @alasdyirq 🐾",
               ]);
 }else{
 MrPHPBot('sendmessage',[
  'chat_id' => $chat_id,
- 'text'=>"عذرا اختر ☄ من 1 الى 100 ⚡️ تابع :- @Xxx_DEVRAMI_xxX 🐾",
+ 'text'=>"عذرا اختر ☄ من 1 الى 100 ⚡️ تابع :- @alasdyirq 🐾",
               ]);
 }
 }
@@ -3365,7 +3365,7 @@ sendAction($chat_id, 'typing');
       ]);
 MrPHPBot('sendmessage',[
  'chat_id'=>$chat_id,
- 'text'=>"تم تغيير ⚡️ اسم المجموعة ☄ بنجاح تابع :- @Xxx_DEVRAMI_xxX 🐾",
+ 'text'=>"تم تغيير ⚡️ اسم المجموعة ☄ بنجاح تابع :- @alasdyirq 🐾",
   'parse_mode'=>'MarkDown',
  ]);
  }
@@ -3380,7 +3380,7 @@ sendAction($chat_id, 'typing');
       ]);
 MrPHPBot('sendmessage',[
  'chat_id'=>$chat_id,
- 'text'=>"تم تغيير ⚡️ وصف المجموعة ☄ بنجاح تابع :- @Xxx_DEVRAMI_xxX 🐾",
+ 'text'=>"تم تغيير ⚡️ وصف المجموعة ☄ بنجاح تابع :- @alasdyirq 🐾",
   'parse_mode'=>'MarkDown',
  ]);
  }
@@ -3394,7 +3394,7 @@ sendAction($chat_id, 'typing');
       ]);
 MrPHPBot('sendmessage',[
  'chat_id'=>$chat_id,
- 'text'=>"تم الغاء تثبيت ☄ الرسالة بنجاح ⚡️ تابع :- @Xxx_DEVRAMI_xxX 🐾",
+ 'text'=>"تم الغاء تثبيت ☄ الرسالة بنجاح ⚡️ تابع :- @alasdyirq 🐾",
   'parse_mode'=>'MarkDown',
  ]);
  }
@@ -3408,7 +3408,7 @@ MrPHPBot('deleteChatPhoto',[
      ]);
 MrPHPBot('sendmessage',[
  'chat_id'=>$chat_id,
- 'text'=>"تم تابع @Xxx_DEVRAMI_xxX",
+ 'text'=>"تم تابع @alasdyirq",
   'parse_mode'=>'MarkDown',
  ]);
  }
@@ -3461,7 +3461,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
 sendAction($chat_id, 'typing');
 MrPHPBot('sendmessage',[
  'chat_id'=>$chat_id,
- 'text'=>"ارسل صورة ⚡️ للمجموعة الان ☄ تابع :- @Xxx_DEVRAMI_xxX 🐾",
+ 'text'=>"ارسل صورة ⚡️ للمجموعة الان ☄ تابع :- @alasdyirq 🐾",
   'parse_mode'=>'MarkDown',
  ]);
  }
@@ -3481,7 +3481,7 @@ MrPHPBot('setChatPhoto',[
      ]);
 MrPHPBot('sendmessage',[
  'chat_id'=>$chat_id,
- 'text'=>"#DEV_RAMI",
+ 'text'=>"#DEV_ABOODE",
   'parse_mode'=>'MarkDown',
  ]);
  unlink("data/$chat_id/photogp.png");
@@ -3492,7 +3492,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
   sendAction($chat_id, 'typing');
   MrPHPBot('sendmessage',[
   'chat_id'=>$chat_id,
-  'text'=>"   اعدادت ♻️ التكرار اختر ☄ من 1 الى 20 🐾 تابع عزيزي 🔉 @Xxx_DEVRAMI_xxX 🌪",
+  'text'=>"   اعدادت ♻️ التكرار اختر ☄ من 1 الى 20 🐾 تابع عزيزي 🔉 @alasdyirq 🌪",
   'parse_mode'=>'MarkDown',
   'reply_markup'=>json_encode([
   'resize_keyboard'=>true,
@@ -3519,7 +3519,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
 لزيادة العدد 🔺 اضغط على ( ➕ ) 
 لنقصان العدد 🔻 اضغط على ( ➖ ) 
 
-*Follow TEAM DEV*⚡️ :- @Xxx_DEVRAMI_xxX",
+*Follow TEAM ABOODE*⚡️ :- @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -3544,7 +3544,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
 لزيادة العدد 🔺 اضغط على ( ➕ ) 
 لنقصان العدد 🔻 اضغط على ( ➖ ) 
 
-*Follow TEAM DEV*⚡️ :- @Xxx_DEVRAMI_xxX",
+*Follow TEAM ABOODE*⚡️ :- @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -3566,7 +3566,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -3588,7 +3588,7 @@ if ($tc == 'group' | $tc == 'supergroup'){
 مفتوح = ✖️ 
 مقفول = ✔️*
 
-`تابع من ✨ فضلك 🚸` :-  @Xxx_DEVRAMI_xxX",
+`تابع من ✨ فضلك 🚸` :-  @alasdyirq",
              'reply_markup'=>json_encode([
                  'inline_keyboard'=>[
                    [
@@ -3652,13 +3652,13 @@ elseif ($text == "ads") {
 • تم حل جميع المشاكل 
 
 *ֆ • • • • • • • • • • • • • ֆ*
-• تابعنا ☄ :- فريق @Xxx_DEVRAMI_xxX
+• تابعنا ☄ :- فريق @alasdyirq
 
-*Channels📡 : •┇TEAM DEV┇•*"],
+*Channels📡 : •┇TEAM ABOODE┇•*"],
             'reply_markup' => [
                 'inline_keyboard' => [
                     [
-                        ['text' => "جديدنا", 'url' => 'https://telegram.me/Xxx_DEVRAMI_xxX']
+                        ['text' => "جديدنا", 'url' => 'https://telegram.me/alasdyirq']
                     ],
                     [
                         ['text' => "اشتراک با دیگران", 'switch_inline_query' => 'ads']
@@ -3683,8 +3683,8 @@ n', 'message_text' =arse_mode' => 'MarkDown', 'message_text' => "*Follow TEAMDEV
 • تم حل جميع المشاكل 
 
 *ֆ • • • • • • • • • • • • • ֆ*
-• تابعنا ☄ :- فريق @Xxx_DEVRAMI_xxX
+• تابعنا ☄ :- فريق @alasdyirq
 
-*Channels📡 : •┇TEAM DEV┇•*"],
+*Channels📡 : •┇aboode┇•*"],
             'reply_markup' => [
                 'inline_keyboard' => [
